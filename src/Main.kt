@@ -33,6 +33,14 @@ fun main(args : Array<string>) {
 
 }
 
+fun mostrarerror() {
+    TODO("Not yet implemented")
+}
+
+fun salir() {
+    TODO("Not yet implemented")
+}
+
 fun mostrarrespuestas() {
     println("Select an option \n 1 Show all the answers\n 2 Show only affirmative answers  3 Show only affirmative answers  4 Show only negative answers")
 }
